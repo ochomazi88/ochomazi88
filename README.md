@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ochomazi88
+- 👀 I’m interested in blockchain development, software engineering, machine learning, and audio engineering.
+- 🌱 I’m currently learning smart contract development in Solidity, TypeScript & JavaScript programming, web development, algorithm analysis.
+- 💞️ I’m looking to collaborate on decentralized applications for finance, gaming, music, and ancient egyptian studies.
+- 📫 How to reach me: sneferuii@gmail.com
